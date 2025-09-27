@@ -9,7 +9,7 @@ En este proyecto de Python trabajamos las consultas con la IA y la gestión de u
 El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo. 
 - Este archivo README explica el proyecto entero.
 - El archivo .gitignore ignora las carpetas/archivos que no se suben a Github.
-- El archivo requirements.txt contiene las dependencias/instalaciones necesarias para que el programa funcione correctamente.
+- El archivo requirements.txt contiene las dependencias/instalaciones necesarias para que el programa funcione correctamente. En este caso no hacemos ninguna instalación ya que no la necesitamos.
 - La carpeta img contiene las imágenes de las consultas a Chatgpt.
 - La carpeta src contiene la programación del proyecto con un archivo Main.py que llama a cada una de las partes del trabajo.
 
@@ -56,5 +56,11 @@ Simular un sistema de gestión de vuelos que clasifica las reservas según el **
 Refinar el sistema de gestión de vuelos para detectar y registrar automáticamente **errores de formato** en las reservas.
 
 ---
+## 📌 Fuentes
+Chatgpt: https://chatgpt.com/
+Classroom: https://classroom.google.com/
+
+---
+
 ## ✅ Conclusión  
 Este proyecto demuestra cómo un sistema de reservas puede evolucionar desde una gestión básica hasta un sistema más robusto, capaz de manejar destinos múltiples y registrar errores en los datos.
