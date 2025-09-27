@@ -36,6 +36,13 @@ El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo.
 - 📄.gitignore
 - 📄README.md
 - 📄requirements.txt
+- 📂img
+  - 📂Parte1
+    - 🖼️Imagen/es
+  - 📂Parte2
+    - 🖼️Imagen/es
+  - 📂Parte3
+    - 🖼️Imagen/es
 
 ---
 ## 🚀 Parte 1: Gestión de Reservas
