@@ -1,7 +1,9 @@
 # ✈️ Sistema de Gestión de Reservas de Vuelos
+
 ---
 ## 📌 Descripción
 En este proyecto de Python trabajamos las consultas con la IA y la gestión de un pequeño programa sobre reservas de un vuelo.
+
 ---
 ## ℹ️ Instrucciones
 El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo. 
@@ -10,11 +12,13 @@ El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo.
 - El archivo requirements.txt contiene las dependencias/instalaciones necesarias para que el programa funcione correctamente.
 - La carpeta img contiene las imágenes de las consultas a Chatgpt.
 - La carpeta src contiene la programación del proyecto con un archivo Main.py que llama a cada una de las partes del trabajo.
+
 ---
 ## 👥 Integrantes
 - Alberto Martínez Medina
 - Yuri Brooklyn Guerrero Cadena
 - Joan Gelabert Colomar
+
 ---
 ## 📂 Estructura del Proyecto
 📦 Repositorio
@@ -32,6 +36,7 @@ El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo.
 - 📄.gitignore
 - 📄README.md
 - 📄requirements.txt
+
 ---
 ## 🚀 Parte 1: Gestión de Reservas
 ### 🎯 Objetivo
@@ -42,6 +47,7 @@ Simular un sistema de gestión de vuelos que clasifica las reservas según el **
 ## 🚀 Parte 3: Manejo de Errores en Reservas
 ### 🎯 Objetivo
 Refinar el sistema de gestión de vuelos para detectar y registrar automáticamente **errores de formato** en las reservas.
+
 ---
 ## ✅ Conclusión  
 Este proyecto demuestra cómo un sistema de reservas puede evolucionar desde una gestión básica hasta un sistema más robusto, capaz de manejar destinos múltiples y registrar errores en los datos.
