@@ -11,7 +11,7 @@ El trabajo se divide en 3 partes, cada una hecha por un integrante del grupo.
 - El archivo .gitignore ignora las carpetas/archivos que no se suben a Github.
 - El archivo requirements.txt contiene las dependencias/instalaciones necesarias para que el programa funcione correctamente. En este caso no hacemos ninguna instalación ya que no la necesitamos.
 - La carpeta img contiene las imágenes de las consultas a Chatgpt.
-- La carpeta src contiene la programación del proyecto con un archivo Main.py que llama a cada una de las partes del trabajo.
+- La carpeta src contiene la programación del proyecto con un archivo Main.py que llama a cada una de las partes del trabajo. Para la ejecución del programa es necesario moverse a la carpeta AAD-Gestion_Reservas y escribir en la terminal: python src/Main.py
 
 ---
 ## 👥 Integrantes
